@@ -1,0 +1,13 @@
+.blok {
+    width: 100%;
+    height: 400px;
+
+}
+.resim {
+    width: 330px;
+    height: 350px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 18px;
+    border-radius: 10%;
+}

@@ -1,0 +1,71 @@
+.gallery-box {
+    width: 420px;
+    height: 400px;
+    margin-left: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    background-color: rgb(231, 231, 231);
+    border-radius: 5%;
+}
+.gallery-box-img {
+    width: 420px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5%;
+}
+
+.gallery-box-h3 {
+    text-align: center;
+}
+#baslik {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 4em; /* 64px */
+}
+
+.menu {
+    width: 300px;
+    height: 100px;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    margin: 5px;
+    padding: 14px 16px;
+    background-color: rgb(229, 229, 229);
+    border-radius: 12px;
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.15em;
+}
+
+h2 {
+    font-family: 'Sacramento', cursive;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.button{
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 150px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    text-align: center;
+}
