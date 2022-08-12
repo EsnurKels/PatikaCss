@@ -1,0 +1,61 @@
+#kutuBir {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    text-align: center;
+}
+
+#kutuIki {
+    width: 100%;
+    height: 65px;
+    text-align: center;
+    background-color: rgb(205, 202, 202);
+}
+
+#arama {
+    width: 300px;
+}
+
+#kutuUc {
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    background-color: white;
+}
+
+#kutuDort {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+#blokBir {
+    width: 547px;
+    height: 100%;
+    margin-top: 2px;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(139, 239, 239);
+}
+
+#blokIki {
+    width: 325px;
+    height: 100%;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+    background-color: rgba(76, 201, 201, 0.687);
+}
+
+#blokUc {
+    width: 547px;
+    height: 100%;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+    background-color: rgb(39, 177, 177);
+}
